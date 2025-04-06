@@ -9,7 +9,7 @@ Este proyecto es parte del Diplomado BIT en la Universidad Iberoamericana. Se tr
 ## Características  
 ✅ Diseño responsivo con Bootstrap  
 ✅ Interactividad con JavaScript  
-✅ Filtros para imágenes por categoría  
+✅ Filtros para imágenes por nombre
 ✅ Vista detallada de cada imagen  
 ✅ Formulario de contacto con validación  
 
